@@ -1,6 +1,7 @@
 # KH2 Rando Steam Deck Setup Guide
 
 > [!IMPORTANT]
+> - This guide was built with the Steam version in mind. The installation process wouldn't be exactly the same for the Epic Games version, so please note which version you own or are buying. 
 > - This guide assumes you are installing this on Steam Deck! For other OS's, please adjust accordingly. 
 > - This guide also assumes that you have some knowledge in how to navigate Linux based OSs!
 > - Please launch into Desktop Mode and use a mouse and keyboard! While this is doable without a mouse or keyboard, it will be frustrating!
