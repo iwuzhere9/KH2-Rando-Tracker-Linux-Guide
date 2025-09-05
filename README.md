@@ -4,7 +4,6 @@
 > - This guide assumes you are installing this on Steam Deck! For other OS's, please adjust accordingly. 
 > - This guide also assumes that you have some knowledge in how to navigate Linux based OSs!
 > - Please launch into Desktop Mode and use a mouse and keyboard! While this is doable without a mouse or keyboard, it will be frustrating!
-> - This guide is based on the [excellent guide](https://github.com/KHOmega/KH-PC-and-Linux-Setup/blob/main/refined-steam-linux-setup.md) by the Re:Fined team for their mod, as well as the [main guide](https://tommadness.github.io/KH2Randomizer/setup/Panacea-ModLoader/) for Randomizer setup the community has put together. Tracker and Livesplit on Linux is possible thanks the work of one of the KH2 Rando Discord members. 
 
 ## Prerequisites
 To get started you need to download and install the following:
@@ -182,6 +181,6 @@ I did the easy part of stitching things together, so the most credit I can take 
 
 A MASSIVE thanks goes to a user on the KH2 Rando Discord for figuring out how to get the Tracker and Livesplit working on the Steam Deck. (Waiting for a reply from the user before throwing their name out unwanted) 
 
-Another huge shoutout goes to [KHOmega](https://github.com/KHOmega) for maintaining the Re:Fined guide that has been the backbone of getting Rando running on the Deck along with the rest of the Re:Fined team for making a STELLAR mod 
+Another huge shoutout goes to [KHOmega](https://github.com/KHOmega) for maintaining the [Re:Fined Steam Deck guide](https://github.com/KHOmega/KH-PC-and-Linux-Setup/blob/main/refined-steam-linux-setup.md) that has been another huge leap for getting Rando running on the Deck along with the rest of the Re:Fined team for making a STELLAR mod 
 
-Lastly, a big thank you to all the contributors for the Randomizer and Guide on the main website. 
+Lastly, a big thank you to all the contributors for the Randomizer and Guide on the [main page](https://tommadness.github.io/KH2Randomizer) for the Randomizer. 
