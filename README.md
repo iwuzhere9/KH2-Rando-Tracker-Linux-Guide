@@ -54,8 +54,10 @@ For the command to work and not be read as two separate commands, you will want 
 
 I take zero credit for any of the information here, I just pulled together what was put out and worked into a unified guide.
 
-A MASSIVE thanks goes to [baili0411](https://github.com/baili0411) figuring out how to get the Tracker and Livesplit working on the Steam Deck. 
+A MASSIVE thanks goes to [baili0411](https://github.com/baili0411) for figuring out how to get the Tracker and Livesplit working on the Steam Deck. 
 
 Another huge shoutout goes to [KHOmega](https://github.com/KHOmega) for maintaining the Linux guides that let me and many others join the rando scene.
 
 Lastly, a big thank you to all the contributors for the Randomizer and Guide on the [main page](https://tommadness.github.io/KH2Randomizer) for the Randomizer. 
+
+If anything breaks or if you have any issues, sound off in the KH2 Rando discord and we should be able to help or update the guide as needed
