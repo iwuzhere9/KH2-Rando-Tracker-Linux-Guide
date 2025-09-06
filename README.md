@@ -52,9 +52,9 @@ For the command to work and not be read as two separate commands, you will want 
 
 # Credits
 
-I take ZERO credit for any of the information here, I just pulled together what was put out and worked in an easy to find guide. 
+I take zero credit for any of the information here, I just pulled together what was put out and worked into a unified guide.
 
-A MASSIVE thanks goes to a user on the KH2 Rando Discord for figuring out how to get the Tracker and Livesplit working on the Steam Deck. (Waiting for a reply from the user before throwing their name out unwanted) 
+A MASSIVE thanks goes to [baili0411](https://github.com/baili0411) figuring out how to get the Tracker and Livesplit working on the Steam Deck. 
 
 Another huge shoutout goes to [KHOmega](https://github.com/KHOmega) for maintaining the Linux guides that let me and many others join the rando scene.
 
