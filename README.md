@@ -1,7 +1,7 @@
 # KH2 Randomizer Additional Tools Setup for Steam Deck
 
 > [!IMPORTANT]
-> - This guide was built with the Steam version in mind. As far as other Linux distros go, you would have to do a bit of playing around to get it going.
+> - This guide was built specifically for Steam Deck users, so if you're on another Linux distro, you may have to play around with more things to get it all running smoothly.
 > - You will have to switch to Desktop Mode and use a mouse and keyboard, an external display is HIGHLY recommended but everything is possible on the Deck itself.
 
 If you need to get the Mods Manager and Seed Generator set up, please consult the [wonderful guide](https://github.com/KHOmega/KH-PC-and-Linux-Setup/blob/main/GoA-Randomizer-linux-setup.md) by [KHOmega](https://github.com/KHOmega) 
@@ -44,9 +44,9 @@ If you want to see how fast you think you can clear a seed or want to join in an
 
 For the command to work and not be read as two separate commands, you will want to replace the space between "\" and "--bus" with a line break. You will also need to actually enter the steam-runtime-launch-client and Livesplit.exe rather than keeping it as "/path/to/"  
 
-- Step 4: Next, you will want to get the Radnomizer Load Remover for Livesplit from the [GitHub page](https://github.com/aliosgaming/KH2FM_Load_Remover-FOR-RANDOMIZER). The readme gives instructions on both an automated and manual install. The automated option is recommended, but if you have any issues with Livesplit crashing after pausing the In-Game Timer, then try to set up a fresh cpoy of Livesplit using the manual instructions. 
+- Step 4: Next, you will want to get the Radnomizer Load Remover for Livesplit from the [GitHub page](https://github.com/aliosgaming/KH2FM_Load_Remover-FOR-RANDOMIZER). The readme gives instructions on both an automated and manual install. The automated option is recommended, but if you have any issues then try to set up a fresh cooy of Livesplit using the manual instructions. 
 
-- Step 5: Once the Load Remover has been set up, the game will start automatically once you proceed through the options for setting up a New Game, and the timer will automatically stop once you defeat Final Xemnas, or the boss replacing him if you have boss randomizer enabled. 
+- Step 5: Once the Load Remover has been set up, the timer will start on its own once you proceed through the options for setting up a New Game, and the timer will automatically stop once you defeat Final Xemnas, or the boss replacing him if you have boss randomizer enabled. 
 
 # Credits
 
