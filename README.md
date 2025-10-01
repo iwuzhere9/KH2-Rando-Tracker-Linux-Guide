@@ -44,7 +44,7 @@ If you want to see how fast you think you can clear a seed or want to join in an
 
 For the command to work and not be read as two separate commands, you will want to replace the space between "\" and "--bus" with a line break. You will also need to actually enter the steam-runtime-launch-client and Livesplit.exe rather than keeping it as "/path/to/"  
 
-- Step 4: Next, you will want to get the Radnomizer Load Remover for Livesplit from the [GitHub page](https://github.com/aliosgaming/KH2FM_Load_Remover-FOR-RANDOMIZER). The readme gives instructions on both an automated and manual install. The automated option is recommended, but if you have any issues then try to set up a fresh cooy of Livesplit using the manual instructions. 
+- Step 4: Next, you will want to get the Randomizer Load Remover for Livesplit from the [GitHub page](https://github.com/aliosgaming/KH2FM_Load_Remover-FOR-RANDOMIZER). The readme gives instructions on both an automated and manual install. The automated option is recommended, but if you have any issues then try to set up a fresh cooy of Livesplit using the manual instructions. 
 
 - Step 5: Once the Load Remover has been set up, the timer will start on its own once you proceed through the options for setting up a New Game, and the timer will automatically stop once you defeat Final Xemnas, or the boss replacing him if you have boss randomizer enabled. 
 
