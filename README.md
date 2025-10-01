@@ -1,10 +1,8 @@
 # KH2 Randomizer Additional Tools Setup for Steam Deck
 
 > [!IMPORTANT]
-> - This guide was built with the Steam version in mind. 
-> - This guide assumes you are installing this on Steam Deck! For other OS's, please adjust accordingly. 
-> - This guide also assumes that you have some knowledge in how to navigate Linux based OSs!
-> - Please launch into Desktop Mode and use a mouse and keyboard! You will be forced to scale things down to a small size to run everything on the built-in display, so an external monitor is also recommended
+> - This guide was built with the Steam version in mind. As far as other Linux distros go, you would have to do a bit of playing around to get it going.
+> - You will have to switch to Desktop Mode and use a mouse and keyboard, an external display is HIGHLY recommended but everything is possible on the Deck itself.
 
 If you need to get the Mods Manager and Seed Generator set up, please consult the [wonderful guide](https://github.com/KHOmega/KH-PC-and-Linux-Setup/blob/main/GoA-Randomizer-linux-setup.md) by [KHOmega](https://github.com/KHOmega) 
 
