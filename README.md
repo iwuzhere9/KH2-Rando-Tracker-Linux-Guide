@@ -25,7 +25,7 @@ The KH2 Rando Tracker isn't a mod but instead a full fledged automated tracker p
 
 For the command to work and not be read as two separate commands, you will want to replace the space between " \ " and "--bus" with a line break. Use Kate or whatever text editor you prefer to make the changes as you won't have the same freedom within the terminal window to handle any changes to the path or formatting.
 
-You will also need to actually enter the steam-runtime-launch-client and KhTracker.exe rather than keeping it as "/path/to/" 
+You will also need to actually enter the file paths for steam-runtime-launch-client and KhTracker.exe rather than keeping it as "/path/to/" 
 
 - Step 5: You should see the terminal working, and after a short moment the Tracker itself should open up. Under `Options` you will want to click `Hint Loading...` and then `Load KH2 Randomizer Seed (*.zip)`
 
