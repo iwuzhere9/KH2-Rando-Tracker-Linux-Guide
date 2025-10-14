@@ -6,7 +6,7 @@
 
 If you need to get the Mods Manager and Seed Generator set up, please consult the [wonderful guide](https://github.com/KHOmega/KH-PC-and-Linux-Setup/blob/main/GoA-Randomizer-linux-setup.md) by [KHOmega](https://github.com/KHOmega) 
 
-This guide is to help Steam Deck users get set up at parity with Windows installs for the tools to use when playing Randomized Seeds, and to ensure that they are capable of joining in any races or tournaments the community puts together. 
+This guide is to help Steam Deck/Linux users get set up at near-parity with Windows installs for the tools to use when playing Randomized Seeds. Some of the deeper features for more advanced seeds like boss hunter or path still don't work quite the same, but for a basic seed for racing or yourself it works just the same as on Windows.
 
 If there are any big changes after any updates to the Tracker or Livesplit, I'll do my best to keep this guide up to date. 
 
@@ -60,4 +60,4 @@ Another huge shoutout goes to [KHOmega](https://github.com/KHOmega) for maintain
 
 Lastly, a big thank you to all the contributors for the Randomizer and Guide on the [main page](https://tommadness.github.io/KH2Randomizer) for the Randomizer. 
 
-If anything breaks or if you have any issues, sound off in the KH2 Rando discord and we should be able to help or update the guide as needed
+If anything breaks or if you have any issues, sound off in the #help channel on the KH2 Rando discord, lots of folk more qualified than me can help, but if its something about this guide itself you can also DM me on discord.
