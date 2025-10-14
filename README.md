@@ -16,7 +16,7 @@ The KH2 Rando Tracker isn't a mod but instead a full fledged automated tracker p
 
 - Step 1: Go to the [GitHub page](https://github.com/Dee-Ayy/KH2Tracker/releases/latest) and download the most recent release of the Tracker
 
-- Step 2: In Steam, you will change the `Launch Options` from what was listed earlier to `STEAM_COMPAT_LAUNCHER_SERVICE=proton WINEDLLOVERRIDES="version,dinput8=n,b" %command%`
+- Step 2: In Steam, you will change the `Launch Options` for your copy of KH2 from what was used for base Randomizer setup to `STEAM_COMPAT_LAUNCHER_SERVICE=proton WINEDLLOVERRIDES="version,dinput8=n,b" %command%`
 
 - Step 3: Launch the game with the seed installed, and then choose `New Game` before moving to another window to keep the intro movie from playing. 
 
