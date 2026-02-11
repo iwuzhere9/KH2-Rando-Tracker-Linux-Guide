@@ -6,7 +6,7 @@
 
 If you need to get the Mods Manager and Seed Generator set up, please consult the [wonderful guide](https://github.com/KHOmega/KH-PC-and-Linux-Setup/blob/main/GoA-Randomizer-linux-setup.md) by [KHOmega](https://github.com/KHOmega) 
 
-This guide is to help Steam Deck/Linux users get set up at near-parity with Windows installs for the tools to use when playing Randomized Seeds. Some of the deeper features for more advanced seeds like boss hunter or other objective based formats still don't work quite the same, but for a basic seed for racing or playing alone it works just the same as on Windows.
+This guide is to help Steam Deck/Linux users get set up at an equal level with Windows installs for the tools to use when playing Randomized Seeds. As of [version 2.7 of the tracker](https://github.com/roromaniac/KH2Tracker/releases/tag/v2.7new), objective and grid based modes will generate matching cards to Windows users, but if you experience any issues, take note of the seed string and send it to me so we can see what went wrong.
 
 If there are any big changes after any updates to the Tracker or Livesplit, I'll do my best to keep this guide up to date. 
 
